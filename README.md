@@ -7,7 +7,7 @@
 Aplicativo Flutter desenvolvido para a disciplina de Programação para Dispositivos Móveis que permite mover uma imagem na tela usando botões direcionais.
 
 ## 🖼️ Demonstração
-![Demonstração do App](assets/demo_app.gif) *Substitua por uma imagem real do seu aplicativo*
+![Demonstração do App](assets/demo_app.gif) *
 
 ## ✨ Funcionalidades
 - Movimentar imagem em 4 direções (cima, baixo, esquerda, direita)
